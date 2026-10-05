@@ -2,7 +2,7 @@ package software.ulpgc.katas;
 
 import java.time.LocalDate;
 
-public class Student {
+public class Person {
     private final String name;
     private final java.time.LocalDate birthday;
 
@@ -19,7 +19,7 @@ public class Student {
         return (int) (days / 365);
     }
 
-    public Student(String name, LocalDate birthday) {
+    public Person(String name, LocalDate birthday) {
         this.name = name;
         this.birthday = birthday;
     }
