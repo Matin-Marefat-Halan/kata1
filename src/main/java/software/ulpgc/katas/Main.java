@@ -1,10 +1,8 @@
 package software.ulpgc.katas;
 
-import java.time.LocalDate;
-
 public class Main {
     public static void main(String[] args) {
-        Person person = new Person("Matin", LocalDate.of(2006, 06, 10));
-        System.out.println(person.getName() + " tiene " + person.getAge() + " años.");
+        Student student = new Student("Matin", java.time.LocalDate.of(2006, 6, 10));
+        System.out.println(student.getName() + " tiene " + student.getAge() + " años.");
     }
 }
