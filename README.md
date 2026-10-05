@@ -17,4 +17,4 @@ Familiarización con el entorno de desarrollo IntelliJ IDEA, automatizar el fluj
 Se ha trabajado en la rama `develop` mediante commits atómicos y posteriormente se ha integrado en `master`.
 
 ## Enlace al vídeo
-[AQUÍ IRA EL ENLACE AL VÍDEO]
+[AQUÍ IRA EL ENLACE AL VÍDEOoo]
